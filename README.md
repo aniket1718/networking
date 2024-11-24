@@ -21,6 +21,7 @@ void bitstuffing(char *input,int frame_size){
     stuffed[j++]='\0';
     printf("original data :%s\n",input);
     printf("stuffed data :%s\n",stuffed);
+    printf("thank you");
 }
 int main(){
     int frame_size;
